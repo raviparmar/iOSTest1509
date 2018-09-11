@@ -30,8 +30,10 @@ Here we will write the test description
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'iOSTest1509/Classes/**/*'
-  
+#s.source_files = 'iOSTest1509/Classes/**/*'
+#s.source_files  = 'iOSTest1509/Classes/**/*.{h,m,swift}'
+s.source_files = 'iOSTest1509/Classes/**/*.swift'
+
   # s.resource_bundles = {
   #   'iOSTest1509' => ['iOSTest1509/Assets/*.png']
   # }
