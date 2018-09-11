@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 Here we will write the test description
                        DESC
 
-  s.homepage         = 'https://github.com/raviparmargithub/iOSTest1509'
+  s.homepage         = 'https://github.com/raviparmar/iOSTest1509'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'raviparmargithub' => 'ravi.parmar@zebpay.com' }
-  s.source           = { :git => 'https://github.com/raviparmargithub/iOSTest1509.git', :tag => s.version.to_s }
+  s.author           = { 'raviparmar' => 'ravis3110@gmail.com' }
+  s.source           = { :git => 'https://github.com/raviparmar/iOSTest1509.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -37,6 +37,6 @@ Here we will write the test description
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.frameworks = 'UIKit'
+   s.dependency 'Alamofire', '~> 4.7'
 end

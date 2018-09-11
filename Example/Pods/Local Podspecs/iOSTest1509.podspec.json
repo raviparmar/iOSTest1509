@@ -1,8 +1,8 @@
 {
   "name": "iOSTest1509",
   "version": "0.1.0",
-  "summary": "A short description of iOSTest1509.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "this is sparta",
+  "description": "Here we will write the test description",
   "homepage": "https://github.com/raviparmargithub/iOSTest1509",
   "license": {
     "type": "MIT",
@@ -18,5 +18,11 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "iOSTest1509/Classes/**/*"
+  "source_files": "iOSTest1509/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.7"
+    ]
+  }
 }
