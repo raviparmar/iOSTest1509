@@ -38,5 +38,5 @@ Here we will write the test description
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit'
-# s.dependency 'Alamofire', '~> 4.7'
+   s.dependency 'Alamofire', '~> 4.7'
 end
