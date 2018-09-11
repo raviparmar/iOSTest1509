@@ -3,26 +3,21 @@
   "version": "0.1.0",
   "summary": "this is sparta",
   "description": "Here we will write the test description",
-  "homepage": "https://github.com/raviparmargithub/iOSTest1509",
+  "homepage": "https://github.com/raviparmar/iOSTest1509",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "raviparmargithub": "ravi.parmar@zebpay.com"
+    "raviparmar": "ravis3110@gmail.com"
   },
   "source": {
-    "git": "https://github.com/raviparmargithub/iOSTest1509.git",
+    "git": "https://github.com/raviparmar/iOSTest1509.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "iOSTest1509/Classes/**/*",
-  "frameworks": "UIKit",
-  "dependencies": {
-    "Alamofire": [
-      "~> 4.7"
-    ]
-  }
+  "frameworks": "UIKit"
 }

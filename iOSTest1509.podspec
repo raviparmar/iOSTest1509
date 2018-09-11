@@ -30,9 +30,7 @@ Here we will write the test description
 
   s.ios.deployment_target = '8.0'
 
- s.source_files = 'iOSTest1509/Classes/**/*'
-# s.source_files  = '/iOSTest1509/Classes/**/*.{h,m,swift}'
-# s.source_files  = 'Classes/*.{h,m,swift}'
+ s.source_files  = 'iOSTest1509/Classes/**/*'
 
 # s.resource_bundles = {
   #   'iOSTest1509' => ['iOSTest1509/Assets/*.png']
@@ -40,5 +38,5 @@ Here we will write the test description
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit'
-   s.dependency 'Alamofire', '~> 4.7'
+# s.dependency 'Alamofire', '~> 4.7'
 end

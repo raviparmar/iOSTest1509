@@ -1,6 +1,0 @@
-framework module iOSTest1509 {
-  umbrella header "iOSTest1509-umbrella.h"
-
-  export *
-  module * { export * }
-}
