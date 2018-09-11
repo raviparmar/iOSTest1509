@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'A1E368E6A48515A1BF070C12BC502604'
-               BlueprintName = 'Pods-iOSTest1509_Tests'
+               BlueprintIdentifier = 'AD6C8D38E43A5F97773E4BCE0B336A16'
+               BlueprintName = 'iOSTest1509'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Pods-iOSTest1509_Tests.framework'>
+               BuildableName = 'iOSTest1509.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
